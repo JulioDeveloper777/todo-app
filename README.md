@@ -1,6 +1,8 @@
 # Todo App
 Uma aplicação simples e eficiente de lista de tarefas para ajudar você a gerenciar suas atividades diárias.
 
+![image](https://github.com/user-attachments/assets/49df1fe8-ddf0-4db5-b648-5275197f1a64)
+
 ## Funcionalidades
 - Criar novas tarefas
 - Marcar tarefas como concluídas 
